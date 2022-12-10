@@ -1,0 +1,24 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    int a=45;
+    printf("%d",a);
+    show(a);
+    //float  %f
+    //double %lf
+    //long %ld
+    //long long %lld
+    //short %d
+    //int %d
+    //char %c
+    //string %s
+    //main()  gate
+    
+    return 0;
+}
+
+void show(int b){
+    printf(" %d",b);
+}
